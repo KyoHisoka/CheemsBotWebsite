@@ -1,0 +1,20 @@
+#welcome {
+    background-image: url('imgs/mbtryellowbg.gif');
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;
+    padding: 50px 0 100px 0;
+}
+#header {
+    background-image: url('imgs/shattered-island.gif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#two {
+    align-content: center;
+}
+#welcomealt {
+    background-image: url('imgs/mbtryellowbg.gif');
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;
+    padding: 50px 0 100px 0;
+}
